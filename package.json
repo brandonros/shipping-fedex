@@ -1,0 +1,48 @@
+{
+  "_from": "shipping-fedex@0.1.5",
+  "_id": "shipping-fedex@0.1.5",
+  "_inBundle": false,
+  "_integrity": "sha1-ESAb4ccSJXL95ZXKFtl4uCQFLiY=",
+  "_location": "/shipping-fedex",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "shipping-fedex@0.1.5",
+    "name": "shipping-fedex",
+    "escapedName": "shipping-fedex",
+    "rawSpec": "0.1.5",
+    "saveSpec": null,
+    "fetchSpec": "0.1.5"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/shipping-fedex/-/shipping-fedex-0.1.5.tgz",
+  "_spec": "0.1.5",
+  "author": {
+    "name": "uh-sem-blee, Co"
+  },
+  "bugs": {
+    "url": "https://github.com/uh-sem-blee/node-shipping-fedex/issues"
+  },
+  "dependencies": {
+    "extend": "^1.2.1",
+    "soap": "^0.9.4",
+    "xml2js": "^0.4.12"
+  },
+  "description": "FedEx API bindings for Node.JS",
+  "directories": {},
+  "homepage": "https://github.com/uh-sem-blee/node-shipping-fedex#readme",
+  "license": "AGPL-3.0",
+  "main": "./lib/index.js",
+  "name": "shipping-fedex",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uh-sem-blee/node-shipping-fedex.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.5"
+}
